@@ -3,7 +3,7 @@ pygments: true
 markdown: kramdown
 url: http://herocoda.github.io
 title: Herocoda
-tagline: A log of everyday life
+tagline: Blog sur l'actualité web
 description: My awesome new site
 paginate: 5
 highlighter: rouge
