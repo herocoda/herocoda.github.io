@@ -7,7 +7,7 @@ title: About
   Hey salut ! Moi c'est Aurélien, voilà la page pour les personnes qui souhaitent en savoir un peu plus sur moi.
 </p>
 
-J'ai 23 ans et je suis passionné des technologies du web depuis très jeune. J'ai toujours participer à des projets internet pour mes proches et depuis 2016 j'ai décidé d'ouvrir mon propre blog intitulé [Herocoda](https://herocoda.github.io). 
+J'ai 23 ans et je suis passionné des technologies du web depuis très jeune. J'ai toujours participer à des projets internet pour mes proches et depuis novembre 2016 j'ai décidé d'ouvrir mon propre blog intitulé [Herocoda](https://herocoda.github.io). 
 
 There are currently two themes built on Poole:
 
