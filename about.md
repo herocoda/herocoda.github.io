@@ -16,4 +16,6 @@ Je suis également sur les réseaux sociaux pour ceux qui souhaitent me suivre.
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à m'en faire part, je serai heureux d'y répondre. Vous pouvez aussi contacter par mail: [@herocoda](mailto:aurelien@blanes.fr)
 
+![My helpful screenshot]({{ site.url }}/assets/mac.jpg)
+
 Merci de votre lecture !
