@@ -14,6 +14,6 @@ Je suis également sur les réseaux sociaux pour ceux qui souhaitent me suivre.
 * [Facebook](http://facebook.com)
 * [Twitter](http://twitter.com)
 
-Si vous avez des questions ou des suggestions, n'hésitez pas à m'en faire part, je serai heureux d'y répondre. Vous pouvez aussi contacter par mail: [@herocoda](aurelien@blanes.fr)
+Si vous avez des questions ou des suggestions, n'hésitez pas à m'en faire part, je serai heureux d'y répondre. Vous pouvez aussi contacter par mail: [@herocoda](mailto:aurelien@blanes.fr)
 
 Merci de votre lecture !
