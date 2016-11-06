@@ -4,6 +4,6 @@ markdown: kramdown
 url: http://herocoda.github.io
 title: Herocoda
 tagline: Développement web et dernières technologies du web
-description: Blog perso consacré à l’actualité web/internet, jeux-vidéos mais aussi à des notes ou documents. Bonne visite :) <a href="https://herocoda.github.io" target="_blank">@herocoda</a>
+description: Blog perso consacré à l’actualité web/internet, jeux-vidéos mais aussi à des notes ou documents. Bonne lecture. <a href="https://herocoda.github.io" target="_blank">@herocoda</a>
 paginate: 5
 highlighter: rouge
