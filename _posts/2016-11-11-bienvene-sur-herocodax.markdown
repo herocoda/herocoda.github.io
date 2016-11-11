@@ -1,6 +1,6 @@
 ---
 published: true
-title: Bienvene sur Herocodax
+title: Bienvene sur Herocoda
 layout: post
 ---
 Bonjour à tous et à toutes,
